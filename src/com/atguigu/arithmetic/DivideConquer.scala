@@ -4,6 +4,9 @@ object DivideConquer {
 
   def main(args: Array[String]): Unit = {
     hannuoTower(2, 'a', 'b', 'c')
+
+
+
   }
 
   /**
